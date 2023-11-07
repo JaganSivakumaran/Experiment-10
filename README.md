@@ -75,6 +75,7 @@ public boolean onCreateOptionsMenu(Menu menu) {
 ```
 ## OUTPUT:
 ![image](https://github.com/HibaRajarajeswari/OPTION-MENU/assets/129970809/bbf80d5e-3728-42dd-a90c-6f61f00ad063)
+
 ![image](https://github.com/HibaRajarajeswari/OPTION-MENU/assets/129970809/a36ed4b1-4c7c-47ca-ad46-597acebf3774)
 ## RESULT:
 Thus a Simple Android Application to create a option menu to display menu items using Android Studio is developed and executed successfully.
